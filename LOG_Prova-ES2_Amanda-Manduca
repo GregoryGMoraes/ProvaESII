@@ -1,0 +1,22 @@
+    1  git flow feature start sub
+    2  code .
+    3  gitmoji -i
+    4  git status
+    5  git add .
+    6  git commit
+    7  git branch
+    8  git flow feature finish sub
+    9  git flow feature start sub
+   10  code .
+   11  git add .
+   12  git commit
+   13  git push origin feature/sub
+   14  git branch
+   15  git checkout develop
+   16  git flow feature start mult
+   17  code .
+   18  git add .
+   19  git commit
+   20  git push origin feature/mult
+   21  git checkout develop
+   22  history > LOG_Prova-ES2_Amanda-Manduca
