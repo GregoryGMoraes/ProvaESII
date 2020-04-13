@@ -1,0 +1,64 @@
+    1  npm i -g gitmoji-cli
+    2  git init
+    3  git flow init
+    4  git status
+    5  git checkout -b feature/sum
+    6  node Calculador.js
+    7  node Calculador.js
+    8  node Calculador.js
+    9  node Calculador.js
+   10  node Calculador.js
+   11  node Calculador.js
+   12  node Calculador.js
+   13  node Calculador.js
+   14  node Calculador.js
+   15  node Calculador.js
+   16  node Calculador.js
+   17  node Calculador.js
+   18  node Calculador.js
+   19* s
+   20  node Calculador.js
+   21  git status
+   22  git add.
+   23  git add .
+   24  git status
+   25  git commit
+   26  gitmoji -c
+   27  npm i -g gitmoji-cli
+   28  gitmoji -c
+   29  git status
+   30  gitmoji -c
+   31  gitmoji --help
+   32  gitmoji --init
+   33  git init
+   34  npx i -g gitmoji-cli
+   35  npx install -g gitmoji-cli
+   36  gitmoji --init
+   37  git status
+   38  git commit
+   39  gitmoji -i
+   40  git commit -m ":sparkles:Sum concluídagitmoji -i"
+   41  git status
+   42  git push 
+   43  git push origin feature/sum
+   44  git tag -a v1.0 -m "Base da soma"
+   45  git tag show
+   46  git tag
+   47  git tag show
+   48  git tag -d show
+   49  git tag
+   50  git push origin feature/sum
+   51  git push origin feature/sum
+   52  git status
+   53  git tag
+   54  git tag -d v1.0
+   55  git status
+   56  git checkout develop
+   57  git checkout -b feature/div
+   58  git status
+   59  git add .
+   60  git commit -m ":sparkles:Div concluída"
+   61  git status
+   62  git push origin feature/div
+   63  git checkout develop
+   64  history > LOG_GregoryMoraes
