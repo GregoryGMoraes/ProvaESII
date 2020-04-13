@@ -3,7 +3,7 @@ function sum(){
 }
 
 function sub(){
-    //Implementa código que subtrai dois elementos
+    //Implementa código que recebe dois elementos e resulta na subtração entre eles
 }
 
 function mult(){
