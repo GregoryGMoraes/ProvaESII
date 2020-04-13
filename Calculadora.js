@@ -7,7 +7,7 @@ function sub(){
 }
 
 function mult(){
-    //TODO: Implementar multiplicação
+    //Implementa código que multiplica dois elementos
 }
 
 function div(){
