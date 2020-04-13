@@ -15,4 +15,7 @@ function mult(){
 
 function div(){
     //TODO: Implementar divisão
+    //Implementa a divisão de dois números
+    //var div = num1("8") / ("2");
+    //console.log(div);
 }
